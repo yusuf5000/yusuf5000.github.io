@@ -6,7 +6,7 @@ title: yusuf5000
 email: a@a.com
 name: yusuf5000
 description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here.
+  A blog about science, technology, and sustainability.
 keywords: [science, technology, sustainability, school, yusuf]
 baseurl: '/' # the subpath of your site, e.g. /`blog
 url: 'https://yusuf5000.github.io' # the base hostname & protocol for your site, e.g. http://example.com
