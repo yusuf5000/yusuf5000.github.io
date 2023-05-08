@@ -4,7 +4,7 @@ title:  "How Data Analysis Can Help Save the Planet: The Key to Unlocking Sustai
 date:   2023-05-08
 last_modified_at: 2023-05-08
 categories: [sustainable development, data analysis]
-post_tags: [sustainable development, data analysis, science, computer science, technology, renewable energy, social inequality, climate change, evidence-based policy, data privacy, data security, ethical decision-making]
+tags: [sustainable development, data analysis, science, computer science, technology, renewable energy, social inequality, climate change, evidence-based policy, data privacy, data security, ethical decision-making]
 ---
 Sustainable development is the process of satisfying the requirements of the present generation without jeopardizing future generations' ability to meet their own needs. It entails striking a balance between economic progress, social well-being, and environmental conservation. Achieving sustainable development goals necessitates making educated decisions based on accurate and up-to-date information. This is where data analysis comes in. In this blog article, we will discuss the significance of data analysis in accomplishing sustainable development goals.
 
